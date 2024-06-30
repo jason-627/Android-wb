@@ -1,3 +1,4 @@
 # Android Web Browser
 ## Simple, Speedy, Secure.
-### Version 1.1 is out NOW!!!
+### Version 1.2 is out NOW!!!
+# 🔥🔥🔥
